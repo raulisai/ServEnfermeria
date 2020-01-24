@@ -1,0 +1,85 @@
+/*Inicio menu*/
+#InicioIndex {
+    
+    background-image: url(../src/img/imgIndex-2000x1330.jpg);
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+}
+
+.container-fluidoo {
+
+    margin-top: 3%;
+}
+
+#lemaInicio {
+margin-top: 12%;
+margin-left: 50%;
+margin-right: 20%;
+padding-bottom: 20%;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 3rem;
+color: black;
+text-align: center;
+}
+
+.navcenter {
+    margin-left: 30%;
+}
+.itemMenu {
+
+padding-right: 30px;
+
+}
+.itemMenu > a {
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.8rem;
+
+    }
+#bUTContact {
+
+    background-color:#ffcc00 ;
+    color: #004d5e;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.8rem;
+    width: 85%;
+    height: 4%; 
+    border-radius: 10%;
+}
+.imgSeccion2inic {
+
+    width: 100%;
+}
+
+.iconoscontacto { padding-right: 20px;}
+
+p {font-size: 16px;}
+.margin {margin-bottom: 45px;}
+.bg-1 { 
+  background-color: #1abc9c; /* Green */
+  color: #ffffff;
+}
+.bg-2 { 
+  background-color: #474e5d; /* Dark Blue */
+  color: #ffffff;
+}
+.bg-3 { 
+  background-color: #ffffff; /* White */
+  color: #555555;
+}
+.bg-4 { 
+  background-color: #2f2f2f; /* Black Gray */
+  color: #fff;
+}
+.container-fluid {
+    padding-top: 70PX;
+    padding-bottom: 70px;
+  }
+.IncBarr2{
+
+    text-align: center;
+}
+
+
+/*Inicio menu*/
